@@ -1,0 +1,63 @@
+.jumbotron-hero {
+    /* Choisis la hauteur ici */
+    height: 500px;
+  
+    /* Tu lui donnes une image de background */
+    background-image: url("images/New\ York.jpg");
+  
+    /* Centre l'image et la met bien sur tous les écrans */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .font-style {
+    font-family: 'Quicksand', sans-serif;
+  }
+
+  .font-color-light{
+    color: oldlace !important;
+  }
+
+  .font-color-dark{
+    color: darkslategray !important;
+  }
+
+  .bloc-style{
+    background-color: rgb(48, 51, 59) !important;
+    margin-left: -15px;
+    margin-right: 15px;
+    height: 500px;
+  }
+
+  #plage-sunset{
+    background-image: url("images/sunset.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    
+    }
+    .footer {
+      text-align:center;
+      color:rgb(42, 46, 49);
+      font-size:12px;
+      font-weight:50;
+      padding:20px 0; 
+        margin-bottom: 0px;
+        letter-spacing: 1px;
+       }
+
+
+       .fa-instagram:hover {
+            color: rgb(255, 202, 219);
+        }
+        
+        .fa-facebook-f:hover {
+            color: rgb(255, 202, 219);
+        }
+        
+        .fa-pinterest:hover {
+            color: rgb(255, 202, 219);
+        }
